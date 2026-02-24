@@ -2,4 +2,4 @@
 Shradha khapre
  
  # Teaches
- Apna college
+ Apna college.
